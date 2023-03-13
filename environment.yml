@@ -1,0 +1,9 @@
+name: mlflow_example
+channels:
+  - defaults
+dependencies:
+  - mlforecast
+  - pandas
+  - ipykernel
+  - lightgbm
+  - mlflow
