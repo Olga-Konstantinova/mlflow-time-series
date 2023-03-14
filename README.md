@@ -1,6 +1,6 @@
 ## Description
 
-This repository is created to share the code of the LnkedIn video that can found using the link: 
+This repository is created to share the code of the LnkedIn video that can found [Here](https://www.linkedin.com/posts/o-konstantinova_ai-monitoring-modeltracking-activity-7041358552631783426-puTF?utm_source=share&utm_medium=member_desktop)
 
 ## Files
 - environment.yml file -> necessary libraries for runnig the man file mlflow_example.ipynb
